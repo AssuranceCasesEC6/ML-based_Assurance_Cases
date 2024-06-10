@@ -1,8 +1,34 @@
 # ML-based_Assurance_Cases
 
-This repository presents assurances cases for ensuring several trustworthiness properties on ML-based systems.
+This repository presents assurances cases for ensuring several trustworthiness properties on ML-based systems. These Assurance Case follow the Goal Structuring Notation (GSN) and are modeled using a dedicated plugin developed in the Capella Arcadia method, as described in the [https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=f8gCWb0AAAAJ&sortby=pubdate&citation_for_view=f8gCWb0AAAAJ:Se3iqnhoufwC](associated paper published at ERTS 2024).
 
-
+These assurance case are attached to the 'trained ML model' engineering item visible on the following Development workflow:
 <div align="center">
-    <img src="Approach_overview3.png" width="50%" alt="Overall Approach" align="center" />
+    <img src="[OABx] Development of ML Model.png" width="70%" alt="Development Workflow" align="center" />
+</div>
+
+## Explainability assurance case:
+<div align="center">
+    <img src="[GSN] Success Cases Explanations.png" width="70%" alt="" align="left" />
+</div>
+
+## Robustness by design assurance case:
+<div align="center">
+    <img src="[GSN] Model Local robustness by design.png" width="70%" alt="" align="left" />
+</div>
+
+## Fairness assurance case:
+<div align="center">
+    <img src="[GSN] Model Fairness.png" width="70%" alt="" align="left" />
+</div>
+
+## Enriched Workflow 
+Here is an example of modification of the workflow when applying a specific strategy of our Robustness by design assurance case:
+<div align="center">
+    <img src="Enriched_wfl.png" width="70%" alt="Enriched Workflow" align="left" />
+</div>
+
+LEGEND:
+<div align="center">
+    <img src="Legend.png" width="70%" alt="Assurance Cases Legend" align="center" />
 </div>
