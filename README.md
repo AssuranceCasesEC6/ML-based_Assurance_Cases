@@ -33,7 +33,7 @@ These assurance case are attached to the 'trained ML model' engineering item vis
 # Enriched Workflow 
 Here is an example of modification of the workflow when applying a specific strategy of our Robustness by design assurance case:  
 <div align="center">
-    <img src="Enriched_wfl.png" width="70%" alt="Enriched Workflow" align="left" />
+    <img src="Enriched_wfl.png" width="100%" alt="Enriched Workflow" align="left" />
 </div>
 
 <br />  
@@ -41,5 +41,5 @@ Here is an example of modification of the workflow when applying a specific stra
 # LEGEND:
 <p>Here is the legend of the nodes used in our representation of assurance cases</p>  
 <div align="center">
-    <img src="Legend.png" width="70%" alt="Assurance Cases Legend" align="left" />
+    <img src="Legend.png" width="60%" alt="Assurance Cases Legend" align="left" />
 </div>
