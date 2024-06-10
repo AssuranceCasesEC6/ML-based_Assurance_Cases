@@ -8,15 +8,17 @@ These assurance case are attached to the 'trained ML model' engineering item vis
 </div>
 
 </br>
+
 # Explainability assurance case:
 <div align="center">
-    <img src="[GSN] Success Cases Explanations.png" width="100%" alt="Explainability Assurance Case" align="center" />
+    <img src="[GSN] Success Cases Explanations.png" width="100%" alt="Explainability Assurance Case" align="left" />
 </div>
 
 </br>
+
 # Robustness by design assurance case:
 <div align="center">
-    <img src="[GSN] Model Local robustness by design.png" width="100%" alt="Robustness  Assurance Case" align="center" />
+    <img src="[GSN] Model Local robustness by design.png" width="100%" alt="Robustness  Assurance Case" align="left" />
 </div>
 
 </br>
@@ -35,7 +37,7 @@ Here is an example of modification of the workflow when applying a specific stra
 </div>
 
 </br>
-<p>
+
 # LEGEND:
 <p>Here is the legend of the nodes used in our representation of assurance cases</p>
 <div align="center">
