@@ -9,20 +9,20 @@ These assurance case are attached to the 'trained ML model' engineering item vis
 
 # Explainability assurance case:
 <div align="center">
-    <img src="[GSN] Success Cases Explanations.png" width="70%" alt="" align="center" />
+    <img src="[GSN] Success Cases Explanations.png" width="100%" alt="Explainability Assurance Case" align="center" />
 </div>
 
 # Robustness by design assurance case:
 <div align="center">
-    <img src="[GSN] Model Local robustness by design.png" width="70%" alt="" align="center" />
+    <img src="[GSN] Model Local robustness by design.png" width="100%" alt="Robustness  Assurance Case" align="center" />
 </div>
 
 # Fairness assurance case:
 <div align="center">
-    <img src="[GSN] Model Fairness.png" width="70%" alt="" align="left" />
+    <img src="[GSN] Model Fairness.png" width="100%" alt="Fairness Assurance Case" align="left" />
 </div>
 
-## Enriched Workflow 
+# Enriched Workflow 
 Here is an example of modification of the workflow when applying a specific strategy of our Robustness by design assurance case:
 <div align="center">
     <img src="Enriched_wfl.png" width="70%" alt="Enriched Workflow" align="left" />
