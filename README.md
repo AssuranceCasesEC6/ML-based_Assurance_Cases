@@ -7,28 +7,28 @@ These assurance case are attached to the 'trained ML model' engineering item vis
     <img src="[OABx] Development of ML Model.png" width="70%" alt="Development Workflow" align="center" />
 </div>
 
-</br>
+</br><br />  
 
 # Explainability assurance case:
 <div align="center">
     <img src="[GSN] Success Cases Explanations.png" width="95%" alt="Explainability Assurance Case" align="left" />
 </div>
 
-<br />  
+<br />  <br />  
 
 # Robustness by design assurance case:
 <div align="center">
     <img src="[GSN] Model Local robustness by design.png" width="95%" alt="Robustness  Assurance Case" align="left" />
 </div>
 
-<br />  
+<br />  <br />  
 
 # Fairness assurance case:
 <div align="center">
     <img src="[GSN] Model Fairness.png" width="95%" alt="Fairness Assurance Case" align="left" />
 </div>
 
-<br />  
+<br />  <br />  
 
 # Enriched Workflow 
 Here is an example of modification of the workflow when applying a specific strategy of our Robustness by design assurance case:  
@@ -36,7 +36,7 @@ Here is an example of modification of the workflow when applying a specific stra
     <img src="Enriched_wfl.png" width="95%" alt="Enriched Workflow" align="left" />
 </div>
 
-<br />  
+<br />  <br />  
 
 # LEGEND:
 <p>Here is the legend of the nodes used in our representation of assurance cases</p>  
