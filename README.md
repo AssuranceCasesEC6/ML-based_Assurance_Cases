@@ -38,7 +38,7 @@ Here is an example of modification of the workflow when applying a specific stra
 
 <br />  <br />  
 
-# LEGEND:
+# Legend:
 <p>Here is the legend of the nodes used in our representation of assurance cases</p>  
 <div align="center">
     <img src="Legend.png" width="60%" alt="Assurance Cases Legend" align="left" />
