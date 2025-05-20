@@ -18,7 +18,7 @@ These assurance case are attached to the 'trained ML model' engineering item vis
 
 # Robustness by design assurance case:
 <div align="center">
-    <img src="%5BGSN%5D Model Local robustness by design.png" width="100%" alt="Robustness  Assurance Case" align="left" />
+    <img src="%5BGSN%5D_Model_Local_robustness_by_design.png" width="100%" alt="Robustness  Assurance Case" align="left" />
 </div>
 
 <br />  <br />  
