@@ -4,7 +4,7 @@ This repository presents assurances cases for ensuring several trustworthiness p
 
 These assurance case are attached to the 'trained ML model' engineering item visible on the following Development workflow:
 <div align="center">
-    <img src="[OABx] Development of ML Model.png" width="100%" alt="Development Workflow" align="center" />
+    <img src="[OABx]_Development_of_ML_Model.png" width="100%" alt="Development Workflow" align="center" />
 </div>
 
 </br><br />  
